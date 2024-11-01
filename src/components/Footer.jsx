@@ -2,7 +2,7 @@ import React from "react";
 import facebookIcon from "../assets/Facebook1.png";
 import twitterIcon from "../assets/Twitter1.png";
 import instagramIcon from "../assets/Instagram1.png";
-import linkedinIcon from "../assets/Whatsapp.png";
+import linkedinIcon from "../assets/WhatsApp.png";
 
 export default function Footer() {
   return (
