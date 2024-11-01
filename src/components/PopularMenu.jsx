@@ -1,5 +1,5 @@
 import React from "react";
-import image1 from "../assets/img5.png"; // Images for the menu items
+import image1 from "../assets/img4.png"; // Images for the menu items
 import image2 from "../assets/img3.png";
 import image3 from "../assets/t2.png";
 import cornerImage1 from "../assets/shape1.png"; // Images for the corners
