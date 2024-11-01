@@ -1,6 +1,6 @@
 import React from "react";
 import backgroundImage from "../assets/r.png";
-import centerImage from "../assets/image2.png";
+import centerImage from "../assets/img2.png";
 
 export default function Phoebe() {
   return (

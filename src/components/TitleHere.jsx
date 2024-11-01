@@ -1,5 +1,5 @@
 import React from "react";
-import largeImage from "../assets/image.png"; // Import your main image
+import largeImage from "../assets/img.png"; // Import your main image
 import cornerImage1 from "../assets/shape.png";
 import cornerImage2 from "../assets/shape7.png";
 import cornerImage3 from "../assets/shape8.png";

@@ -1,6 +1,6 @@
 import React from "react";
-import image1 from "../assets/image4.png"; // Images for the menu items
-import image2 from "../assets/image3.png";
+import image1 from "../assets/img5.png"; // Images for the menu items
+import image2 from "../assets/img3.png";
 import image3 from "../assets/t2.png";
 import cornerImage1 from "../assets/Shape1.png"; // Images for the corners
 import cornerImage2 from "../assets/Shape2.png";
