@@ -1,10 +1,10 @@
 import React from "react";
-import cornerImage1 from "../assets/shape10.png"; // Import your corner images
-import cornerImage2 from "../assets/shape11.png";
-import cornerImage3 from "../assets/shape12.png";
-import cornerImage4 from "../assets/shape13.png";
-import cornerImage5 from "../assets/shape14.png";
-import cornerImage6 from "../assets/shape15.png";
+import cornerImage1 from "../assets/Shape10.png"; // Import your corner images
+import cornerImage2 from "../assets/Shape11.png";
+import cornerImage3 from "../assets/Shape12.png";
+import cornerImage4 from "../assets/Shape13.png";
+import cornerImage5 from "../assets/Shape14.png";
+import cornerImage6 from "../assets/Shape15.png";
 
 export default function Statistics() {
   return (
