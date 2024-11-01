@@ -1,13 +1,13 @@
 import React from "react";
-import image1 from "../assets/image (4).png"; // Images for the menu items
-import image2 from "../assets/image (3).png";
-import image3 from "../assets/t (2).png";
-import cornerImage1 from "../assets/Shape (1).png"; // Images for the corners
-import cornerImage2 from "../assets/Shape (2).png";
-import cornerImage3 from "../assets/Shape (3).png";
-import cornerImage4 from "../assets/Shape (4).png";
-import cornerImage5 from "../assets/Shape (5).png";
-import cornerImage6 from "../assets/Shape (6).png";
+import image1 from "../assets/image4.png"; // Images for the menu items
+import image2 from "../assets/image3.png";
+import image3 from "../assets/t2.png";
+import cornerImage1 from "../assets/Shape1.png"; // Images for the corners
+import cornerImage2 from "../assets/Shape2.png";
+import cornerImage3 from "../assets/Shape3.png";
+import cornerImage4 from "../assets/Shape4.png";
+import cornerImage5 from "../assets/Shape5.png";
+import cornerImage6 from "../assets/Shape6.png";
 
 export default function PopularMenu() {
   return (

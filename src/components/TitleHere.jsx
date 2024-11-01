@@ -1,9 +1,9 @@
 import React from "react";
 import largeImage from "../assets/image.png"; // Import your main image
 import cornerImage1 from "../assets/shape.png";
-import cornerImage2 from "../assets/shape (7).png";
-import cornerImage3 from "../assets/shape (8).png";
-import cornerImage4 from "../assets/shape (9).png";
+import cornerImage2 from "../assets/shape7.png";
+import cornerImage3 from "../assets/shape8.png";
+import cornerImage4 from "../assets/shape9.png";
 
 export default function TitleHere() {
   return (

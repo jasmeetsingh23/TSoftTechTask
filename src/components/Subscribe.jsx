@@ -1,10 +1,10 @@
 import React from "react";
 import cornerImage1 from "../assets/shape.png";
-import cornerImage2 from "../assets/shape (7).png";
-import cornerImage3 from "../assets/shape (8).png";
-import cornerImage4 from "../assets/shape (9).png";
+import cornerImage2 from "../assets/shape7.png";
+import cornerImage3 from "../assets/shape8.png";
+import cornerImage4 from "../assets/shape9.png";
 import cornerImage5 from "../assets/shape.png";
-import cornerImage6 from "../assets/shape (7).png";
+import cornerImage6 from "../assets/shape7.png";
 
 export default function Subscribe() {
   return (
